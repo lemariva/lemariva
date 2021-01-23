@@ -7,6 +7,8 @@ Since I was very young, I have always built small projects to solve problems. Gi
 
 My main activities on Github involve practical application of machine learning, IoT devices, and other miscellaneous projects that I want to test and try. 
 
+Feel free to comment, improve and fork the repositories and projects. To stay tuned, follow me on Github, subscribe to my [Youtube channel](https://www.youtube.com/c/LeMaRivaTech?sub_confirmation=1) and the [mailing list](http://eepurl.com/gIQk9v).
+
 ![Profile views](https://gpvc.arturio.dev/lemariva)
 
 ## &#x1f4c8; GitHub Stats
